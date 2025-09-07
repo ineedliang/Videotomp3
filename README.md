@@ -1,0 +1,1 @@
+a simple batch script. Drag a video into the batch file and automatically output an mp3 file.. Requires ffmpeg and ffprobe in the same folder. was tested using the full version found here. https://www.gyan.dev/ffmpeg/builds/
